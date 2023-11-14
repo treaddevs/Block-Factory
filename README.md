@@ -1,6 +1,6 @@
 # Block-Factory
 Block Factory runs continuously mining both wood and stone resources to construct wood and stone blocks once enough resources have accumulated:
- – (Lab 5, template developed by Professor Gary Cantrell)
+ – (Lab 4, template developed by Professor Gary Cantrell)
 
 Once running, the program starts mining resources:
 <img width="704" alt="Screen Shot 2023-11-14 at 2 34 29 PM" src="https://github.com/treaddevs/Block-Factory/assets/148214913/8fed64e2-b056-4dff-b30f-cbcff2a82a84">
